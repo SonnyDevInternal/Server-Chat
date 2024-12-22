@@ -8,6 +8,9 @@ Since i made this while i was a little bored, there may be some Safety concernin
 1. Simple Xoring Encryption: this is not very safe or Confidential so its more for Testing Encryption Algorithms.
 2. Basic Networking Protection: Im not a high level Exploit hunter so this app may have some Bugs so dont use it Commercially (which it wouldnt either way)
 
+## Disclaimer:
+Use at Own risk since i cant say with Safety my Code is good ._.
+
 ## How To Build:
 Windows SDK is needed for this and Visual Studio 2022 with the Basic C++ Libraries.
 Build with C++ 20
