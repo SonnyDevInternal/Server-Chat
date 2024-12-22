@@ -13,4 +13,4 @@ Windows SDK is needed for this and Visual Studio 2022 with the Basic C++ Librari
 Build with C++ 20
 
 ## How To Use:
-Should be used in Combination with: [App To Communicate with Server](https://1.1.1.1)
+Should be used in Combination with: [App To Communicate with Server](https://github.com/SonnyDevInternal/Chat)
